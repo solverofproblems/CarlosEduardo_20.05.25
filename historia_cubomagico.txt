@@ -1,0 +1,47 @@
+=========================================
+🏁 Introdução: Um Quebra-Cabeça Colorido
+=========================================
+
+O Cubo Mágico, também conhecido como *Cubo de Rubik*, é um quebra-cabeça tridimensional inventado em 1974 pelo húngaro 
+**Ernő Rubik**. Seu objetivo é simples à primeira vista: girar as peças até que cada uma das seis faces do cubo exiba 
+uma única cor. Porém, atrás dessa simplicidade esconde-se um dos desafios mais populares e complexos do mundo.
+
+=========================================
+🔍 Como o Cubo Funciona?
+=========================================
+
+O cubo é composto por **26 peças móveis** (os chamados "cubinhos") que se movem em torno de um eixo central invisível. 
+Com milhões de combinações possíveis, cada movimento pode tanto aproximar quanto afastar o jogador da solução. Resolver 
+o cubo exige **lógica, paciência, memória e estratégia**.
+
+=========================================
+💡 Por que o Cubo Mágico é tão útil?
+=========================================
+
+Além de ser um passatempo divertido, o Cubo Mágico nos ajuda de diversas maneiras:
+
+- 🧠 **Melhora o raciocínio lógico:** Resolver o cubo exige sequências de movimentos bem pensados.
+- 🎯 **Desenvolve a concentração:** Manter o foco para não se perder nos movimentos é essencial.
+- ⌛ **Aumenta a paciência e a persistência:** Nem sempre se acerta de primeira.
+- 🗺️ **Estimula a memória espacial:** É preciso lembrar dos padrões e posições dos cubinhos.
+- 🧘 **Reduz o estresse:** A atividade repetitiva pode ter efeito calmante para muitas pessoas.
+
+=========================================
+📚 Curiosidades Rápidas
+=========================================
+
+- Existem **mais de 43 quintilhões** de combinações possíveis!
+- O recorde mundial de solução é de **3,13 segundos**.
+- Existem cubos de **2x2 até 17x17**, além de variações como o "Mirror Cube" ou o "Pyraminx".
+- O Cubo Mágico é usado em entrevistas de emprego, estudos de cognição e até na reabilitação motora.
+
+=========================================
+🌈 Conclusão: Mais que um Brinquedo
+=========================================
+
+O Cubo Mágico é muito mais do que um brinquedo colorido — é uma ferramenta poderosa para o desenvolvimento pessoal.
+Seja por diversão ou desafio, ele sempre traz algo novo para quem tenta resolvê-lo. Dê uma chance, gire, explore e
+descubra um mundo de possibilidades dentro de um cubo!
+
+---
+
